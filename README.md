@@ -1,5 +1,5 @@
 <!--About session-->
-<h1 align="center">Criando um jogo no estilo space shooter<br>Digital Innovation One</h1>
+<h1 align="center">Recriando o famoso jogo do dinossauro sem internet<br>||Digital Innovation One||</h1>
 
 Curso do Bootcamp Órbi web Games Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
